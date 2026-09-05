@@ -1,0 +1,15 @@
+Act as a senior functional tester. generate a the test document for credit card payment verifying card holder name, card number, card expiry, cvv number, and a check box to save card details and also a payment button at the end
+constraints: include only functional, negative and boundary test cases.
+output: provide the result in a excel sheet with
+test case ID
+test case name
+test step
+input data
+expected results
+actual results
+test environment
+test priority
+execution status
+bug severity
+bug priority
+notes
